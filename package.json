@@ -5,9 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "prerelease": "npm ci",
-    "release": "semantic-release -d",
-    "test": "npm run release"
+    "test": "npm ci && npm ci && npm ci && npm ci && npm ci"
   },
   "repository": {
     "type": "git",
