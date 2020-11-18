@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/patoi/reproduction-node-v10-module-not-found-error#readme",
   "devDependencies": {
-    "semantic-release": "^15.13.24"
+    "semantic-release": "^17.2.3"
   }
 }
